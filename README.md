@@ -1,4 +1,4 @@
-# [My Resume](https://eduardodothost.github.io/startbootstrap-resume)
+# [My Resume](https://eduardodothost.github.io/resume)
 
 I used the following Bootsrap Theme crafted by StartBootsrap for my resume page.
 
